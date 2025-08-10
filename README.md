@@ -1,4 +1,4 @@
-# Ragnarok Underground World (RUW) — GitHub Repo Starter
+# Ragnarok Underground(ROU) — GitHub Repo Starter
 
 Includes Unity project scaffolding + core scripts + Kenney Autowire tool.
 
@@ -11,5 +11,5 @@ Open with **Unity 2022.3.45f1**. Add **Mirror** via Git URL:
 https://github.com/MirrorNetworking/Mirror.git#release/74.1.0
 
 Menu in Unity:
-- Ragnarok Underground World → Add Jobs+Skills Demo
-- Ragnarok Underground World → Kenney → Autowire (after adding assets under Assets/Art/Kenney)
+- Ragnarok Underground → Add Jobs+Skills Demo
+- Ragnarok Underground → Kenney → Autowire (after adding assets under Assets/Art/Kenney)

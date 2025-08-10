@@ -1,0 +1,103 @@
+{
+  "skills": [
+    {
+      "code": "first_aid",
+      "name": "First Aid",
+      "job": "novice",
+      "maxLv": 1,
+      "sp": 3,
+      "cooldown": 1.0,
+      "type": "self_heal",
+      "power": 15,
+      "icon": ""
+    },
+    {
+      "code": "bash",
+      "name": "Bash",
+      "job": "swordsman",
+      "maxLv": 10,
+      "sp": 8,
+      "cooldown": 1.0,
+      "type": "melee_nuke",
+      "power": 30,
+      "icon": ""
+    },
+    {
+      "code": "provoke",
+      "name": "Provoke",
+      "job": "swordsman",
+      "maxLv": 10,
+      "sp": 5,
+      "cooldown": 5.0,
+      "type": "debuff_def_down",
+      "duration": 10,
+      "icon": ""
+    },
+    {
+      "code": "fire_bolt",
+      "name": "Fire Bolt",
+      "job": "mage",
+      "maxLv": 10,
+      "sp": 10,
+      "cooldown": 1.2,
+      "type": "projectile_magic",
+      "power": 35,
+      "icon": ""
+    },
+    {
+      "code": "double_strafe",
+      "name": "Double Strafe",
+      "job": "archer",
+      "maxLv": 10,
+      "sp": 12,
+      "cooldown": 1.2,
+      "type": "projectile_double",
+      "power": 20,
+      "icon": ""
+    },
+    {
+      "code": "steal",
+      "name": "Steal",
+      "job": "thief",
+      "maxLv": 10,
+      "sp": 10,
+      "cooldown": 5.0,
+      "type": "utility_steal",
+      "chance": 0.25,
+      "icon": ""
+    },
+    {
+      "code": "heal",
+      "name": "Heal",
+      "job": "acolyte",
+      "maxLv": 10,
+      "sp": 13,
+      "cooldown": 1.0,
+      "type": "target_heal",
+      "power": 60,
+      "icon": ""
+    },
+    {
+      "code": "increase_agi",
+      "name": "Increase AGI",
+      "job": "acolyte",
+      "maxLv": 10,
+      "sp": 15,
+      "cooldown": 3.0,
+      "type": "buff_agi",
+      "duration": 120,
+      "amount": 3,
+      "icon": ""
+    },
+    {
+      "code": "overcharge",
+      "name": "Overcharge",
+      "job": "merchant",
+      "maxLv": 10,
+      "sp": 0,
+      "cooldown": 0.0,
+      "type": "passive_trade",
+      "icon": ""
+    }
+  ]
+}

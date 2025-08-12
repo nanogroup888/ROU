@@ -3,10 +3,14 @@
 --- !u!114 &1
 MonoBehaviour:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ObjectHideFlags: 53
 =======
   m_ObjectHideFlags: 61
 >>>>>>> 2c754eb (Initial commit)
+=======
+  m_ObjectHideFlags: 61
+>>>>>>> 8b2444b85c97f9eb6e9b77e045fbd2cb48deee6a
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

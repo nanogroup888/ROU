@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "scopedRegistries": [
     {
       "name": "package.openupm.com",
@@ -29,3 +30,16 @@
     "com.unity.modules.unitywebrequesttexture": "1.0.0"
   }
 }
+=======
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.collections": "2.1.4",
+    "com.mirror-networking.mirror": "https://github.com/MirrorNetworking/Mirror.git#release/74.1.0"
+  }
+}
+>>>>>>> 8b2444b85c97f9eb6e9b77e045fbd2cb48deee6a

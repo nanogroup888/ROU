@@ -1,5 +1,6 @@
 using Mirror;
 using UnityEngine;
+<<<<<<< HEAD
 
 public class JobChangeNPC : NetworkBehaviour
 {
@@ -13,3 +14,10 @@ public class JobChangeNPC : NetworkBehaviour
         if (js) js.CmdChangeJob(job);
     }
 }
+=======
+public class JobChangeNPC : NetworkBehaviour
+{
+    public void ChangeTo(string job)
+    { var lp = NetworkClient.localPlayer; if(lp) lp.GetComponent<JobSystem>().CmdChangeJob(job); }
+}
+>>>>>>> 8b2444b85c97f9eb6e9b77e045fbd2cb48deee6a

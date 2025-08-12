@@ -16,6 +16,7 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.ogg filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 =======
@@ -28,3 +29,6 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
+=======
+*.ogg filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8b2444b85c97f9eb6e9b77e045fbd2cb48deee6a

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# --- Unity ---
 [Ll]ibrary/
 [Tt]emp/
@@ -25,3 +26,32 @@ SysInfo.txt
 # Rider/VS Code
 .idea/
 .vscode/
+=======
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+Assets/AssetStoreTools*
+crashpad_db/
+Assets/AddressableAssetsData/*/catalog_*.*
+.idea/
+.vscode/
+*.DotSettings*
+.DS_Store
+Thumbs.db
+>>>>>>> 8b2444b85c97f9eb6e9b77e045fbd2cb48deee6a

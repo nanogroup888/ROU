@@ -3,22 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SpawnPoint
+  - Vendor
+  - QuestGiver
+  - Inn
+  - Guild
+  - Auction
+  - Gate
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Monster
   - Water
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Building
+  - Prop
+  - Interactable
+  - NPC
+  - NoNav
   - 
   - 
   - 

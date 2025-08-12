@@ -1,0 +1,10 @@
+﻿{
+  "dependencies": {
+    "com.mirror-networking.mirror": "file:Packages/com.mirror-networking.mirror",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.2d.sprite": "1.0.0"
+  }
+}

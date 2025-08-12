@@ -1,0 +1,14 @@
+{
+  "maps": [
+    {
+      "id": "Field_Pronto",
+      "scene": "Field_Pronto",
+      "name": "Starter Field"
+    },
+    {
+      "id": "City_Lasvegus",
+      "scene": "City_Lasvegus",
+      "name": "Lasvegus"
+    }
+  ]
+}

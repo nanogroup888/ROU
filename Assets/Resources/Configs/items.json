@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Red Potion",
+      "type": "Consumable",
+      "equipSlot": "None",
+      "atk": 0,
+      "def": 0,
+      "healHp": 50,
+      "healMp": 0,
+      "price": 50,
+      "desc": "Restore 50 HP"
+    },
+    {
+      "id": 2,
+      "name": "Short Sword",
+      "type": "Weapon",
+      "equipSlot": "Weapon",
+      "atk": 12,
+      "def": 0,
+      "healHp": 0,
+      "healMp": 0,
+      "price": 800,
+      "desc": "Basic sword"
+    },
+    {
+      "id": 1001,
+      "name": "Lasvegus Coin",
+      "type": "Quest",
+      "equipSlot": "None",
+      "atk": 0,
+      "def": 0,
+      "healHp": 0,
+      "healMp": 0,
+      "price": 0,
+      "desc": "Casino token"
+    }
+  ]
+}

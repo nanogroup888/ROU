@@ -6,8 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  m_UseUCBPForAssetBundles: 0
+    path: Assets/Scenes/Login.unity
+    guid: e55b949cdbb12004a9cfe80a42b59d2f
+  - enabled: 1
+    path: Assets/Scenes/Capital_City.unity
+    guid: e6f42619e22908542afee174fb2eaa99
+  - enabled: 1
+    path: Assets/Scenes/City_Lasvegus.unity
+    guid: a5d8107ee67f04f40a57aaefb2c212dc
+  - enabled: 1
+    path: Assets/Scenes/Field_Pronto.unity
+    guid: 90f78cd5529f60f45864f78cc282c588
+  m_configObjects: {}

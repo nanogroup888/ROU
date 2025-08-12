@@ -11,7 +11,7 @@ public static class RUW_KenneyAutowire
     const string MonstersJson = "Assets/Resources/Data/Monsters/monsters.json";
     const string ItemsJson = "Assets/Resources/Data/Items/items.json";
 
-    [MenuItem("Ragnarok Underground World/Kenney/Autowire %#k")]
+    [MenuItem("ROLike Tools/Kenney/Autowire %#k")]
     public static void Run()
     {
         string root = "Assets/Art/Kenney";
